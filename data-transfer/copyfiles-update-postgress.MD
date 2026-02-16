@@ -8,8 +8,11 @@ Get s3 links from postgrss and copy file from s3 to local and upload to sftp ser
 Goal
 
 Read S3 file URLs/keys from PostgreSQL
+
 Download files from S3 → local
+
 Upload files to an SFTP server
+
 Update progress/status back in PostgreSQL (success / failure / retries)
 
 
